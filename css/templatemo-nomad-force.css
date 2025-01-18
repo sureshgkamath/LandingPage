@@ -204,6 +204,7 @@ a:hover {
   right: auto;
 }
 
+
 .custom-link:hover,
 .custom-link:hover::after {
   color: var(--white-color);
@@ -729,3 +730,4 @@ strong {
     font-size: 22px;
   }
 }
+
